@@ -1,0 +1,37 @@
+well;καλά
+year;χρόνος, έτος
+thing;πράγμα
+musical instrument;μουσικό όργανο
+what about you?;κι εσύ?
+a lot of;αρκετοί
+free time;ελεύθερος χρόνος
+soon;σύντομα
+elementary school;δημοτικό σχολείο
+primary school;δημοτικό σχολείο
+here;εδώ
+there;εκεί
+this;αυτός
+these;αυτοί
+that;εκείνος
+those;εκείνοι
+sheep;πρόβατο
+sheep;πρόβατα
+can;αλουμινένιο κουτάκι (αναψυκτικού)
+bag;σακούλα
+loaf;φραντζόλα
+feed;ταϊζω
+water;νερό
+about me;σχετικά με εμένα
+well;καλά/λοιπόν
+do;κάνω
+weekdays;τις καθημερινές
+more;περισσότερο
+go out;βγαίνω έξω
+beause;επειδή
+then;τότε/μετά
+what I want;αυτό που εγώ θέλω
+its;δικό του
+French;Γαλλικά
+France;Γαλλία
+spend;ξοδεύω/περνώ
+send;στέλνω
